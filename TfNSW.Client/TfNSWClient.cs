@@ -62,6 +62,25 @@ namespace TfNSWOpenData.API
             return result ?? throw new InvalidOperationException(
                 $"Departure monitor returned no data for stop.");
         }
+
+        public async Task<AdditionalInfoResponse> GetAdditionalInfoAsync(Dictionary<string, string> queryParams, CancellationToken cancellationToken = default)
+        {
+            var url = UrlBuilder.WithQuery(_options.Value.BaseUri.ToString(), "tp/add_info", queryParams);
+
+            using var response = await _http.GetAsync(url, cancellationToken);
+            var json = await response.Content.ReadAsStringAsync(cancellationToken);
+
+            response.EnsureSuccessStatusCode();
+
+            await using var stream = await response.Content.ReadAsStreamAsync(cancellationToken);
+
+            var jsonString = await response.Content.ReadAsStringAsync(cancellationToken);
+
+            var result = JsonConvert.DeserializeObject<AdditionalInfoResponse>(jsonString);
+
+            return result ?? throw new InvalidOperationException(
+                $"Departure monitor returned no data for stop.");
+        }
     }
 }
 
