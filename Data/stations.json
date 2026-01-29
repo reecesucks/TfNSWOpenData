@@ -1,0 +1,3087 @@
+[
+  {
+    "Name": "Central Station",
+    "Modes": [
+      0,
+      11
+    ],
+    "Id": "200060",
+    "City": null,
+    "Latitude": -33.88402424,
+    "Longitude": 151.20620308
+  },
+  {
+    "Name": "Wynyard Station",
+    "Modes": [
+      0
+    ],
+    "Id": "200080",
+    "City": null,
+    "Latitude": -33.86594489,
+    "Longitude": 151.2061031
+  },
+  {
+    "Name": "Redfern Station",
+    "Modes": [
+      0
+    ],
+    "Id": "201510",
+    "City": null,
+    "Latitude": -33.89204769,
+    "Longitude": 151.19841906
+  },
+  {
+    "Name": "St Peters Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204410",
+    "City": null,
+    "Latitude": -33.90727298,
+    "Longitude": 151.18074263
+  },
+  {
+    "Name": "Sydenham Station",
+    "Modes": [
+      11,
+      0
+    ],
+    "Id": "204420",
+    "City": null,
+    "Latitude": -33.91445896,
+    "Longitude": 151.16652644
+  },
+  {
+    "Name": "Stanmore Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204810",
+    "City": null,
+    "Latitude": -33.89447424,
+    "Longitude": 151.16414803
+  },
+  {
+    "Name": "Petersham Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204910",
+    "City": null,
+    "Latitude": -33.89386331,
+    "Longitude": 151.15557204
+  },
+  {
+    "Name": "Lewisham Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204920",
+    "City": null,
+    "Latitude": -33.89341703,
+    "Longitude": 151.14770641
+  },
+  {
+    "Name": "Chatswood Station",
+    "Modes": [
+      0,
+      11
+    ],
+    "Id": "206710",
+    "City": null,
+    "Latitude": -33.79723668,
+    "Longitude": 151.18093364
+  },
+  {
+    "Name": "Roseville Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206910",
+    "City": null,
+    "Latitude": -33.78443617,
+    "Longitude": 151.17766673
+  },
+  {
+    "Name": "Lindfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207010",
+    "City": null,
+    "Latitude": -33.77552136,
+    "Longitude": 151.16927068
+  },
+  {
+    "Name": "Killara Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207110",
+    "City": null,
+    "Latitude": -33.76569908,
+    "Longitude": 151.16184659
+  },
+  {
+    "Name": "Pymble Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207310",
+    "City": null,
+    "Latitude": -33.74477962,
+    "Longitude": 151.14226141
+  },
+  {
+    "Name": "Turramurra Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207410",
+    "City": null,
+    "Latitude": -33.73258635,
+    "Longitude": 151.12863644
+  },
+  {
+    "Name": "Waitara Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207710",
+    "City": null,
+    "Latitude": -33.71036513,
+    "Longitude": 151.10494081
+  },
+  {
+    "Name": "Hornsby Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207720",
+    "City": null,
+    "Latitude": -33.70347479,
+    "Longitude": 151.09835973
+  },
+  {
+    "Name": "Asquith Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207730",
+    "City": null,
+    "Latitude": -33.68852348,
+    "Longitude": 151.10820109
+  },
+  {
+    "Name": "Mount Colah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207910",
+    "City": null,
+    "Latitude": -33.67174586,
+    "Longitude": 151.11469754
+  },
+  {
+    "Name": "Mount Kuring-gai Station",
+    "Modes": [
+      0
+    ],
+    "Id": "208010",
+    "City": null,
+    "Latitude": -33.65358907,
+    "Longitude": 151.13682391
+  },
+  {
+    "Name": "Berowra Station",
+    "Modes": [
+      0
+    ],
+    "Id": "208110",
+    "City": null,
+    "Latitude": -33.62338518,
+    "Longitude": 151.15323454
+  },
+  {
+    "Name": "Cowan Station",
+    "Modes": [
+      0
+    ],
+    "Id": "208120",
+    "City": null,
+    "Latitude": -33.59356714,
+    "Longitude": 151.17177424
+  },
+  {
+    "Name": "Hawkesbury River Station",
+    "Modes": [
+      0
+    ],
+    "Id": "208310",
+    "City": null,
+    "Latitude": -33.54684344,
+    "Longitude": 151.22657548
+  },
+  {
+    "Name": "Macquarie University Station",
+    "Modes": [
+      11
+    ],
+    "Id": "211310",
+    "City": null,
+    "Latitude": -33.77728198,
+    "Longitude": 151.11826703
+  },
+  {
+    "Name": "North Ryde Station",
+    "Modes": [
+      11
+    ],
+    "Id": "211320",
+    "City": null,
+    "Latitude": -33.79421813,
+    "Longitude": 151.13798663
+  },
+  {
+    "Name": "Macquarie Park Station",
+    "Modes": [
+      11
+    ],
+    "Id": "211340",
+    "City": null,
+    "Latitude": -33.78507995,
+    "Longitude": 151.12837418
+  },
+  {
+    "Name": "Denistone Station",
+    "Modes": [
+      0
+    ],
+    "Id": "211410",
+    "City": null,
+    "Latitude": -33.79962625,
+    "Longitude": 151.08692825
+  },
+  {
+    "Name": "West Ryde Station",
+    "Modes": [
+      0
+    ],
+    "Id": "211420",
+    "City": null,
+    "Latitude": -33.80719476,
+    "Longitude": 151.09019218
+  },
+  {
+    "Name": "Epping Station",
+    "Modes": [
+      0,
+      11
+    ],
+    "Id": "212110",
+    "City": null,
+    "Latitude": -33.77283671,
+    "Longitude": 151.08208231
+  },
+  {
+    "Name": "Eastwood Station",
+    "Modes": [
+      0
+    ],
+    "Id": "212210",
+    "City": null,
+    "Latitude": -33.79030086,
+    "Longitude": 151.08229721
+  },
+  {
+    "Name": "Olympic Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "212710",
+    "City": null,
+    "Latitude": -33.84659492,
+    "Longitude": 151.06932974
+  },
+  {
+    "Name": "Summer Hill Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213010",
+    "City": null,
+    "Latitude": -33.89044065,
+    "Longitude": 151.1387028
+  },
+  {
+    "Name": "Ashfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213110",
+    "City": null,
+    "Latitude": -33.88763777,
+    "Longitude": 151.12585123
+  },
+  {
+    "Name": "Croydon Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213210",
+    "City": null,
+    "Latitude": -33.88307479,
+    "Longitude": 151.11520613
+  },
+  {
+    "Name": "Burwood Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213410",
+    "City": null,
+    "Latitude": -33.87710168,
+    "Longitude": 151.10385716
+  },
+  {
+    "Name": "Strathfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213510",
+    "City": null,
+    "Latitude": -33.87167201,
+    "Longitude": 151.09428565
+  },
+  {
+    "Name": "Granville Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214240",
+    "City": null,
+    "Latitude": -33.83275764,
+    "Longitude": 151.01186867
+  },
+  {
+    "Name": "Westmead Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214510",
+    "City": null,
+    "Latitude": -33.80847754,
+    "Longitude": 150.98789237
+  },
+  {
+    "Name": "Wentworthville Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214520",
+    "City": null,
+    "Latitude": -33.80706891,
+    "Longitude": 150.97236952
+  },
+  {
+    "Name": "Pendle Hill Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214530",
+    "City": null,
+    "Latitude": -33.80120445,
+    "Longitude": 150.9560804
+  },
+  {
+    "Name": "Toongabbie Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214610",
+    "City": null,
+    "Latitude": -33.78738636,
+    "Longitude": 150.95144002
+  },
+  {
+    "Name": "Seven Hills Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214710",
+    "City": null,
+    "Latitude": -33.7743511,
+    "Longitude": 150.93612251
+  },
+  {
+    "Name": "Blacktown Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214810",
+    "City": null,
+    "Latitude": -33.76854404,
+    "Longitude": 150.90708043
+  },
+  {
+    "Name": "Marayong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214820",
+    "City": null,
+    "Latitude": -33.74609965,
+    "Longitude": 150.90017109
+  },
+  {
+    "Name": "Parramatta Station",
+    "Modes": [
+      0
+    ],
+    "Id": "215020",
+    "City": null,
+    "Latitude": -33.81749025,
+    "Longitude": 151.005325
+  },
+  {
+    "Name": "Tallawong Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2155384",
+    "City": null,
+    "Latitude": -33.69163119,
+    "Longitude": 150.90600569
+  },
+  {
+    "Name": "Hurstville Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222010",
+    "City": null,
+    "Latitude": -33.96744133,
+    "Longitude": 151.10269428
+  },
+  {
+    "Name": "Sutherland Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223210",
+    "City": null,
+    "Latitude": -34.03175379,
+    "Longitude": 151.05722202
+  },
+  {
+    "Name": "Loftus Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223220",
+    "City": null,
+    "Latitude": -34.04522117,
+    "Longitude": 151.05131573
+  },
+  {
+    "Name": "Engadine Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223310",
+    "City": null,
+    "Latitude": -34.06770196,
+    "Longitude": 151.01486023
+  },
+  {
+    "Name": "Heathcote Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223320",
+    "City": null,
+    "Latitude": -34.08791879,
+    "Longitude": 151.00833242
+  },
+  {
+    "Name": "Waterfall Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223330",
+    "City": null,
+    "Latitude": -34.13490804,
+    "Longitude": 150.99454839
+  },
+  {
+    "Name": "Tascott Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225020",
+    "City": null,
+    "Latitude": -33.45091719,
+    "Longitude": 151.31860852
+  },
+  {
+    "Name": "Point Clare Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225030",
+    "City": null,
+    "Latitude": -33.44625901,
+    "Longitude": 151.32841514
+  },
+  {
+    "Name": "Gosford Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225040",
+    "City": null,
+    "Latitude": -33.42348495,
+    "Longitude": 151.3417336
+  },
+  {
+    "Name": "Niagara Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225060",
+    "City": null,
+    "Latitude": -33.38307663,
+    "Longitude": 151.35458344
+  },
+  {
+    "Name": "Lisarow Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225070",
+    "City": null,
+    "Latitude": -33.38209529,
+    "Longitude": 151.37017048
+  },
+  {
+    "Name": "Narara Station",
+    "Modes": [
+      0
+    ],
+    "Id": "2250772",
+    "City": null,
+    "Latitude": -33.39461057,
+    "Longitude": 151.34452641
+  },
+  {
+    "Name": "Woy Woy Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225610",
+    "City": null,
+    "Latitude": -33.48572837,
+    "Longitude": 151.32330628
+  },
+  {
+    "Name": "Koolewong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225620",
+    "City": null,
+    "Latitude": -33.46639025,
+    "Longitude": 151.31850646
+  },
+  {
+    "Name": "Ourimbah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225810",
+    "City": null,
+    "Latitude": -33.35974907,
+    "Longitude": 151.36999584
+  },
+  {
+    "Name": "Tuggerah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225910",
+    "City": null,
+    "Latitude": -33.30772394,
+    "Longitude": 151.42020531
+  },
+  {
+    "Name": "Wyong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225920",
+    "City": null,
+    "Latitude": -33.28539097,
+    "Longitude": 151.42523404
+  },
+  {
+    "Name": "Morisset Station",
+    "Modes": [
+      0
+    ],
+    "Id": "226410",
+    "City": null,
+    "Latitude": -33.10896063,
+    "Longitude": 151.48814873
+  },
+  {
+    "Name": "Fassifern Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228330",
+    "City": null,
+    "Latitude": -32.98563743,
+    "Longitude": 151.58094353
+  },
+  {
+    "Name": "Teralba Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228420",
+    "City": null,
+    "Latitude": -32.96253817,
+    "Longitude": 151.60347199
+  },
+  {
+    "Name": "Cardiff Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228520",
+    "City": null,
+    "Latitude": -32.94142086,
+    "Longitude": 151.66266152
+  },
+  {
+    "Name": "Adamstown Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228920",
+    "City": null,
+    "Latitude": -32.93365273,
+    "Longitude": 151.72020335
+  },
+  {
+    "Name": "Broadmeadow Station",
+    "Modes": [
+      0
+    ],
+    "Id": "229210",
+    "City": null,
+    "Latitude": -32.92272405,
+    "Longitude": 151.73499102
+  },
+  {
+    "Name": "Newcastle Interchange",
+    "Modes": [
+      0
+    ],
+    "Id": "229310",
+    "City": null,
+    "Latitude": -32.92404091,
+    "Longitude": 151.75908192
+  },
+  {
+    "Name": "Wollongong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250020",
+    "City": null,
+    "Latitude": -34.42701768,
+    "Longitude": 150.88819093
+  },
+  {
+    "Name": "Port Kembla North Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250530",
+    "City": null,
+    "Latitude": -34.47297413,
+    "Longitude": 150.88813754
+  },
+  {
+    "Name": "Port Kembla Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250540",
+    "City": null,
+    "Latitude": -34.4771784,
+    "Longitude": 150.90236909
+  },
+  {
+    "Name": "Helensburgh Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250810",
+    "City": null,
+    "Latitude": -34.17705075,
+    "Longitude": 150.99425973
+  },
+  {
+    "Name": "Otford Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250830",
+    "City": null,
+    "Latitude": -34.21078659,
+    "Longitude": 151.00583131
+  },
+  {
+    "Name": "Coalcliff Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250850",
+    "City": null,
+    "Latitude": -34.24223632,
+    "Longitude": 150.97726898
+  },
+  {
+    "Name": "Scarborough Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251510",
+    "City": null,
+    "Latitude": -34.26552566,
+    "Longitude": 150.96541923
+  },
+  {
+    "Name": "Thirroul Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251550",
+    "City": null,
+    "Latitude": -34.31801562,
+    "Longitude": 150.91891203
+  },
+  {
+    "Name": "Bulli Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251610",
+    "City": null,
+    "Latitude": -34.33443113,
+    "Longitude": 150.91475593
+  },
+  {
+    "Name": "Woonona Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251710",
+    "City": null,
+    "Latitude": -34.349647,
+    "Longitude": 150.91513824
+  },
+  {
+    "Name": "Bellambi Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251810",
+    "City": null,
+    "Latitude": -34.36264805,
+    "Longitude": 150.91011528
+  },
+  {
+    "Name": "Towradgi Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251830",
+    "City": null,
+    "Latitude": -34.38441889,
+    "Longitude": 150.90134686
+  },
+  {
+    "Name": "Oak Flats Station",
+    "Modes": [
+      0
+    ],
+    "Id": "252920",
+    "City": null,
+    "Latitude": -34.57203376,
+    "Longitude": 150.82043996
+  },
+  {
+    "Name": "Shellharbour Junction Station",
+    "Modes": [
+      0
+    ],
+    "Id": "2529218",
+    "City": null,
+    "Latitude": -34.59134673,
+    "Longitude": 150.84470802
+  },
+  {
+    "Name": "Kembla Grange Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253010",
+    "City": null,
+    "Latitude": -34.47018181,
+    "Longitude": 150.81760282
+  },
+  {
+    "Name": "Dapto Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253020",
+    "City": null,
+    "Latitude": -34.49273841,
+    "Longitude": 150.79181569
+  },
+  {
+    "Name": "Minnamurra Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253310",
+    "City": null,
+    "Latitude": -34.62628481,
+    "Longitude": 150.85287255
+  },
+  {
+    "Name": "Bombo Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253320",
+    "City": null,
+    "Latitude": -34.65870177,
+    "Longitude": 150.85384014
+  },
+  {
+    "Name": "Kiama Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253330",
+    "City": null,
+    "Latitude": -34.67266689,
+    "Longitude": 150.8544551
+  },
+  {
+    "Name": "Gerringong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253420",
+    "City": null,
+    "Latitude": -34.74466196,
+    "Longitude": 150.81760762
+  },
+  {
+    "Name": "Berry Station",
+    "Modes": [
+      0
+    ],
+    "Id": "253510",
+    "City": null,
+    "Latitude": -34.78038712,
+    "Longitude": 150.69669597
+  },
+  {
+    "Name": "Bomaderry Station",
+    "Modes": [
+      0
+    ],
+    "Id": "254110",
+    "City": null,
+    "Latitude": -34.85372077,
+    "Longitude": 150.60978184
+  },
+  {
+    "Name": "Campbelltown Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256020",
+    "City": null,
+    "Latitude": -34.06355569,
+    "Longitude": 150.81463149
+  },
+  {
+    "Name": "Macarthur Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256030",
+    "City": null,
+    "Latitude": -34.07199134,
+    "Longitude": 150.79716422
+  },
+  {
+    "Name": "Menangle Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256310",
+    "City": null,
+    "Latitude": -34.10356765,
+    "Longitude": 150.74497444
+  },
+  {
+    "Name": "Menangle Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256810",
+    "City": null,
+    "Latitude": -34.12534919,
+    "Longitude": 150.74436474
+  },
+  {
+    "Name": "Douglas Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256910",
+    "City": null,
+    "Latitude": -34.18324664,
+    "Longitude": 150.7103495
+  },
+  {
+    "Name": "Picton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257110",
+    "City": null,
+    "Latitude": -34.17917983,
+    "Longitude": 150.6127122
+  },
+  {
+    "Name": "Tahmoor Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257310",
+    "City": null,
+    "Latitude": -34.22352998,
+    "Longitude": 150.58995766
+  },
+  {
+    "Name": "Bargo Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257420",
+    "City": null,
+    "Latitude": -34.29098717,
+    "Longitude": 150.5800373
+  },
+  {
+    "Name": "Mittagong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257510",
+    "City": null,
+    "Latitude": -34.45259021,
+    "Longitude": 150.44817385
+  },
+  {
+    "Name": "Yerrinbool Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257540",
+    "City": null,
+    "Latitude": -34.37157933,
+    "Longitude": 150.54361194
+  },
+  {
+    "Name": "Bowral Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257610",
+    "City": null,
+    "Latitude": -34.47817984,
+    "Longitude": 150.41663309
+  },
+  {
+    "Name": "Burradoo Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257620",
+    "City": null,
+    "Latitude": -34.49420535,
+    "Longitude": 150.39785738
+  },
+  {
+    "Name": "Bundanoon Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257810",
+    "City": null,
+    "Latitude": -34.65596932,
+    "Longitude": 150.29949924
+  },
+  {
+    "Name": "Wingello Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257910",
+    "City": null,
+    "Latitude": -34.69219784,
+    "Longitude": 150.15821112
+  },
+  {
+    "Name": "Penrose Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257920",
+    "City": null,
+    "Latitude": -34.67229417,
+    "Longitude": 150.21207796
+  },
+  {
+    "Name": "Exeter Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257930",
+    "City": null,
+    "Latitude": -34.61362739,
+    "Longitude": 150.3174433
+  },
+  {
+    "Name": "Marulan Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257940",
+    "City": null,
+    "Latitude": -34.70961588,
+    "Longitude": 150.00601372
+  },
+  {
+    "Name": "Tallong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257950",
+    "City": null,
+    "Latitude": -34.7183627,
+    "Longitude": 150.08618073
+  },
+  {
+    "Name": "Goulburn Station",
+    "Modes": [
+      0
+    ],
+    "Id": "258010",
+    "City": null,
+    "Latitude": -34.75829984,
+    "Longitude": 149.71935426
+  },
+  {
+    "Name": "Penrith Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275010",
+    "City": null,
+    "Latitude": -33.75014862,
+    "Longitude": 150.69651584
+  },
+  {
+    "Name": "St Marys Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276010",
+    "City": null,
+    "Latitude": -33.76210254,
+    "Longitude": 150.77518003
+  },
+  {
+    "Name": "Schofields Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276220",
+    "City": null,
+    "Latitude": -33.70438029,
+    "Longitude": 150.87377461
+  },
+  {
+    "Name": "Quakers Hill Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276310",
+    "City": null,
+    "Latitude": -33.72746287,
+    "Longitude": 150.88623397
+  },
+  {
+    "Name": "Rooty Hill Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276610",
+    "City": null,
+    "Latitude": -33.77162507,
+    "Longitude": 150.84464747
+  },
+  {
+    "Name": "Doonside Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276710",
+    "City": null,
+    "Latitude": -33.76389763,
+    "Longitude": 150.86869678
+  },
+  {
+    "Name": "Mount Druitt Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277010",
+    "City": null,
+    "Latitude": -33.76955803,
+    "Longitude": 150.82012586
+  },
+  {
+    "Name": "Cherrybrook Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2126158",
+    "City": null,
+    "Latitude": -33.73665917,
+    "Longitude": 151.03199446
+  },
+  {
+    "Name": "Norwest Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2153477",
+    "City": null,
+    "Latitude": -33.73461748,
+    "Longitude": 150.96352165
+  },
+  {
+    "Name": "Bella Vista Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2153478",
+    "City": null,
+    "Latitude": -33.73056616,
+    "Longitude": 150.94401959
+  },
+  {
+    "Name": "Castle Hill Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2154391",
+    "City": null,
+    "Latitude": -33.73162575,
+    "Longitude": 151.00728849
+  },
+  {
+    "Name": "Hills Showground Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2154392",
+    "City": null,
+    "Latitude": -33.72791245,
+    "Longitude": 150.98702465
+  },
+  {
+    "Name": "Kellyville Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2155382",
+    "City": null,
+    "Latitude": -33.71337441,
+    "Longitude": 150.93523145
+  },
+  {
+    "Name": "Rouse Hill Station",
+    "Modes": [
+      11
+    ],
+    "Id": "2155383",
+    "City": null,
+    "Latitude": -33.69181177,
+    "Longitude": 150.92416751
+  },
+  {
+    "Name": "Werrington Station",
+    "Modes": [
+      0
+    ],
+    "Id": "274710",
+    "City": null,
+    "Latitude": -33.75916137,
+    "Longitude": 150.75759387
+  },
+  {
+    "Name": "Kingswood Station",
+    "Modes": [
+      0
+    ],
+    "Id": "274720",
+    "City": null,
+    "Latitude": -33.75842011,
+    "Longitude": 150.72053259
+  },
+  {
+    "Name": "East Richmond Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275310",
+    "City": null,
+    "Latitude": -33.60172876,
+    "Longitude": 150.75891556
+  },
+  {
+    "Name": "Richmond Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275320",
+    "City": null,
+    "Latitude": -33.59884642,
+    "Longitude": 150.75264112
+  },
+  {
+    "Name": "Mulgrave Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275610",
+    "City": null,
+    "Latitude": -33.6265162,
+    "Longitude": 150.83003584
+  },
+  {
+    "Name": "Windsor Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275620",
+    "City": null,
+    "Latitude": -33.61375217,
+    "Longitude": 150.81121394
+  },
+  {
+    "Name": "Clarendon Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275630",
+    "City": null,
+    "Latitude": -33.60858478,
+    "Longitude": 150.78789489
+  },
+  {
+    "Name": "Riverstone Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276510",
+    "City": null,
+    "Latitude": -33.67926177,
+    "Longitude": 150.86037985
+  },
+  {
+    "Name": "Vineyard Station",
+    "Modes": [
+      0
+    ],
+    "Id": "276520",
+    "City": null,
+    "Latitude": -33.6503077,
+    "Longitude": 150.85115431
+  },
+  {
+    "Name": "Lidcombe Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214110",
+    "City": null,
+    "Latitude": -33.86375583,
+    "Longitude": 151.04512981
+  },
+  {
+    "Name": "Clyde Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214230",
+    "City": null,
+    "Latitude": -33.83595319,
+    "Longitude": 151.01694198
+  },
+  {
+    "Name": "Auburn Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214410",
+    "City": null,
+    "Latitude": -33.8494301,
+    "Longitude": 151.03301684
+  },
+  {
+    "Name": "Glenfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216710",
+    "City": null,
+    "Latitude": -33.97220759,
+    "Longitude": 150.89306653
+  },
+  {
+    "Name": "Liverpool Station",
+    "Modes": [
+      0
+    ],
+    "Id": "217020",
+    "City": null,
+    "Latitude": -33.92492704,
+    "Longitude": 150.92732848
+  },
+  {
+    "Name": "Edmondson Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "217426",
+    "City": null,
+    "Latitude": -33.96932346,
+    "Longitude": 150.85880158
+  },
+  {
+    "Name": "Leppington Station",
+    "Modes": [
+      0
+    ],
+    "Id": "217933",
+    "City": null,
+    "Latitude": -33.95445703,
+    "Longitude": 150.80817012
+  },
+  {
+    "Name": "Leumeah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256010",
+    "City": null,
+    "Latitude": -34.05067661,
+    "Longitude": 150.83060671
+  },
+  {
+    "Name": "Macquarie Fields Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256410",
+    "City": null,
+    "Latitude": -33.98483038,
+    "Longitude": 150.87887723
+  },
+  {
+    "Name": "Ingleburn Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256510",
+    "City": null,
+    "Latitude": -33.99748219,
+    "Longitude": 150.86457694
+  },
+  {
+    "Name": "Minto Station",
+    "Modes": [
+      0
+    ],
+    "Id": "256610",
+    "City": null,
+    "Latitude": -34.02744354,
+    "Longitude": 150.84249432
+  },
+  {
+    "Name": "Town Hall Station",
+    "Modes": [
+      0
+    ],
+    "Id": "200070",
+    "City": null,
+    "Latitude": -33.87353896,
+    "Longitude": 151.20692991
+  },
+  {
+    "Name": "Newtown Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204210",
+    "City": null,
+    "Latitude": -33.89791301,
+    "Longitude": 151.17937737
+  },
+  {
+    "Name": "Meadowbank Station",
+    "Modes": [
+      0
+    ],
+    "Id": "211430",
+    "City": null,
+    "Latitude": -33.81579356,
+    "Longitude": 151.09010555
+  },
+  {
+    "Name": "Rhodes Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213820",
+    "City": null,
+    "Latitude": -33.83049189,
+    "Longitude": 151.08704933
+  },
+  {
+    "Name": "Berala Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214120",
+    "City": null,
+    "Latitude": -33.87178351,
+    "Longitude": 151.03252488
+  },
+  {
+    "Name": "Regents Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214310",
+    "City": null,
+    "Latitude": -33.8831901,
+    "Longitude": 151.02401965
+  },
+  {
+    "Name": "Merrylands Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216010",
+    "City": null,
+    "Latitude": -33.83668568,
+    "Longitude": 150.99248668
+  },
+  {
+    "Name": "Guildford Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216110",
+    "City": null,
+    "Latitude": -33.85443792,
+    "Longitude": 150.98439283
+  },
+  {
+    "Name": "Sefton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216210",
+    "City": null,
+    "Latitude": -33.88527733,
+    "Longitude": 151.01170402
+  },
+  {
+    "Name": "Chester Hill Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216220",
+    "City": null,
+    "Latitude": -33.8836589,
+    "Longitude": 151.0002517
+  },
+  {
+    "Name": "Leightonfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216310",
+    "City": null,
+    "Latitude": -33.88148108,
+    "Longitude": 150.98489517
+  },
+  {
+    "Name": "Villawood Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216320",
+    "City": null,
+    "Latitude": -33.88083101,
+    "Longitude": 150.97685942
+  },
+  {
+    "Name": "Fairfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216510",
+    "City": null,
+    "Latitude": -33.87224505,
+    "Longitude": 150.95725354
+  },
+  {
+    "Name": "Canley Vale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216610",
+    "City": null,
+    "Latitude": -33.88732821,
+    "Longitude": 150.94353766
+  },
+  {
+    "Name": "Cabramatta Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216620",
+    "City": null,
+    "Latitude": -33.89474039,
+    "Longitude": 150.93887636
+  },
+  {
+    "Name": "Warwick Farm Station",
+    "Modes": [
+      0
+    ],
+    "Id": "217010",
+    "City": null,
+    "Latitude": -33.91331588,
+    "Longitude": 150.93509547
+  },
+  {
+    "Name": "Holsworthy Station",
+    "Modes": [
+      0
+    ],
+    "Id": "217310",
+    "City": null,
+    "Latitude": -33.96319517,
+    "Longitude": 150.95658976
+  },
+  {
+    "Name": "Yagoona Station",
+    "Modes": [
+      0
+    ],
+    "Id": "219910",
+    "City": null,
+    "Latitude": -33.90721147,
+    "Longitude": 151.02459877
+  },
+  {
+    "Name": "Bankstown Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220010",
+    "City": null,
+    "Latitude": -33.91786888,
+    "Longitude": 151.03428744
+  },
+  {
+    "Name": "Padstow Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221110",
+    "City": null,
+    "Latitude": -33.95191691,
+    "Longitude": 151.03217663
+  },
+  {
+    "Name": "Revesby Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221210",
+    "City": null,
+    "Latitude": -33.95251787,
+    "Longitude": 151.01519695
+  },
+  {
+    "Name": "Panania Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221310",
+    "City": null,
+    "Latitude": -33.95427746,
+    "Longitude": 150.99826036
+  },
+  {
+    "Name": "East Hills Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221320",
+    "City": null,
+    "Latitude": -33.9618174,
+    "Longitude": 150.98472867
+  },
+  {
+    "Name": "North Sydney Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206010",
+    "City": null,
+    "Latitude": -33.84115005,
+    "Longitude": 151.20741233
+  },
+  {
+    "Name": "Victoria Cross Station",
+    "Modes": [
+      11
+    ],
+    "Id": "206044",
+    "City": null,
+    "Latitude": -33.83772725,
+    "Longitude": 151.20738465
+  },
+  {
+    "Name": "Milsons Point Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206110",
+    "City": null,
+    "Latitude": -33.8459361,
+    "Longitude": 151.21183697
+  },
+  {
+    "Name": "Crows Nest Station",
+    "Modes": [
+      11
+    ],
+    "Id": "206516",
+    "City": null,
+    "Latitude": -33.8256203,
+    "Longitude": 151.19913651
+  },
+  {
+    "Name": "St Leonards Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206520",
+    "City": null,
+    "Latitude": -33.8222319,
+    "Longitude": 151.19413439
+  },
+  {
+    "Name": "Beecroft Station",
+    "Modes": [
+      0
+    ],
+    "Id": "211910",
+    "City": null,
+    "Latitude": -33.74927233,
+    "Longitude": 151.06660668
+  },
+  {
+    "Name": "Pennant Hills Station",
+    "Modes": [
+      0
+    ],
+    "Id": "212020",
+    "City": null,
+    "Latitude": -33.73791201,
+    "Longitude": 151.07255151
+  },
+  {
+    "Name": "Homebush Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214010",
+    "City": null,
+    "Latitude": -33.86668795,
+    "Longitude": 151.08619478
+  },
+  {
+    "Name": "Flemington Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214020",
+    "City": null,
+    "Latitude": -33.86491214,
+    "Longitude": 151.07017841
+  },
+  {
+    "Name": "Yennora Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216120",
+    "City": null,
+    "Latitude": -33.86466386,
+    "Longitude": 150.97105333
+  },
+  {
+    "Name": "Banksia Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221610",
+    "City": null,
+    "Latitude": -33.94499641,
+    "Longitude": 151.14058914
+  },
+  {
+    "Name": "Rockdale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221620",
+    "City": null,
+    "Latitude": -33.95224818,
+    "Longitude": 151.13661619
+  },
+  {
+    "Name": "Kogarah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221710",
+    "City": null,
+    "Latitude": -33.96254149,
+    "Longitude": 151.13248719
+  },
+  {
+    "Name": "Carlton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221810",
+    "City": null,
+    "Latitude": -33.96824293,
+    "Longitude": 151.12450153
+  },
+  {
+    "Name": "Allawah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222020",
+    "City": null,
+    "Latitude": -33.96972995,
+    "Longitude": 151.11454867
+  },
+  {
+    "Name": "Waverton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206020",
+    "City": null,
+    "Latitude": -33.8376183,
+    "Longitude": 151.19738129
+  },
+  {
+    "Name": "Artarmon Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206410",
+    "City": null,
+    "Latitude": -33.80854241,
+    "Longitude": 151.18470089
+  },
+  {
+    "Name": "Wollstonecraft Station",
+    "Modes": [
+      0
+    ],
+    "Id": "206510",
+    "City": null,
+    "Latitude": -33.83194479,
+    "Longitude": 151.19174851
+  },
+  {
+    "Name": "Normanhurst Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207620",
+    "City": null,
+    "Latitude": -33.72082663,
+    "Longitude": 151.0970721
+  },
+  {
+    "Name": "Thornleigh Station",
+    "Modes": [
+      0
+    ],
+    "Id": "212010",
+    "City": null,
+    "Latitude": -33.73189695,
+    "Longitude": 151.07815508
+  },
+  {
+    "Name": "Circular Quay",
+    "Modes": [
+      0
+    ],
+    "Id": "200020",
+    "City": null,
+    "Latitude": -33.86135094,
+    "Longitude": 151.21081302
+  },
+  {
+    "Name": "Martin Place Station",
+    "Modes": [
+      0,
+      11
+    ],
+    "Id": "200030",
+    "City": null,
+    "Latitude": -33.86764769,
+    "Longitude": 151.21058267
+  },
+  {
+    "Name": "Museum Station",
+    "Modes": [
+      0
+    ],
+    "Id": "200040",
+    "City": null,
+    "Latitude": -33.8755711,
+    "Longitude": 151.20994628
+  },
+  {
+    "Name": "St James Station",
+    "Modes": [
+      0
+    ],
+    "Id": "200050",
+    "City": null,
+    "Latitude": -33.87062216,
+    "Longitude": 151.21186309
+  },
+  {
+    "Name": "Kings Cross Station",
+    "Modes": [
+      0
+    ],
+    "Id": "201110",
+    "City": null,
+    "Latitude": -33.87448343,
+    "Longitude": 151.2222282
+  },
+  {
+    "Name": "Macdonaldtown Station",
+    "Modes": [
+      0
+    ],
+    "Id": "201520",
+    "City": null,
+    "Latitude": -33.89695934,
+    "Longitude": 151.18569469
+  },
+  {
+    "Name": "Green Square Station",
+    "Modes": [
+      0
+    ],
+    "Id": "201710",
+    "City": null,
+    "Latitude": -33.90607818,
+    "Longitude": 151.20257663
+  },
+  {
+    "Name": "Mascot Station",
+    "Modes": [
+      0
+    ],
+    "Id": "202010",
+    "City": null,
+    "Latitude": -33.92317637,
+    "Longitude": 151.1873354
+  },
+  {
+    "Name": "Domestic Airport Station",
+    "Modes": [
+      0
+    ],
+    "Id": "202020",
+    "City": null,
+    "Latitude": -33.93362984,
+    "Longitude": 151.18065972
+  },
+  {
+    "Name": "International Airport Station",
+    "Modes": [
+      0
+    ],
+    "Id": "202030",
+    "City": null,
+    "Latitude": -33.93497091,
+    "Longitude": 151.16584068
+  },
+  {
+    "Name": "Bondi Junction Station",
+    "Modes": [
+      0
+    ],
+    "Id": "202210",
+    "City": null,
+    "Latitude": -33.89119702,
+    "Longitude": 151.24837675
+  },
+  {
+    "Name": "Edgecliff Station",
+    "Modes": [
+      0
+    ],
+    "Id": "202710",
+    "City": null,
+    "Latitude": -33.87937104,
+    "Longitude": 151.23625289
+  },
+  {
+    "Name": "Erskineville Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204310",
+    "City": null,
+    "Latitude": -33.90018265,
+    "Longitude": 151.1854959
+  },
+  {
+    "Name": "Tempe Station",
+    "Modes": [
+      0
+    ],
+    "Id": "204430",
+    "City": null,
+    "Latitude": -33.92390407,
+    "Longitude": 151.15660038
+  },
+  {
+    "Name": "Gordon Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207210",
+    "City": null,
+    "Latitude": -33.75591148,
+    "Longitude": 151.15444755
+  },
+  {
+    "Name": "Warrawee Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207420",
+    "City": null,
+    "Latitude": -33.72439856,
+    "Longitude": 151.12182775
+  },
+  {
+    "Name": "Wahroonga Station",
+    "Modes": [
+      0
+    ],
+    "Id": "207610",
+    "City": null,
+    "Latitude": -33.71804522,
+    "Longitude": 151.1175449
+  },
+  {
+    "Name": "Cheltenham Station",
+    "Modes": [
+      0
+    ],
+    "Id": "211920",
+    "City": null,
+    "Latitude": -33.75561151,
+    "Longitude": 151.07845967
+  },
+  {
+    "Name": "North Strathfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213710",
+    "City": null,
+    "Latitude": -33.85918843,
+    "Longitude": 151.08818062
+  },
+  {
+    "Name": "Concord West Station",
+    "Modes": [
+      0
+    ],
+    "Id": "213810",
+    "City": null,
+    "Latitude": -33.84860505,
+    "Longitude": 151.08562376
+  },
+  {
+    "Name": "Birrong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "214320",
+    "City": null,
+    "Latitude": -33.89258874,
+    "Longitude": 151.02427803
+  },
+  {
+    "Name": "Harris Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "215010",
+    "City": null,
+    "Latitude": -33.82335268,
+    "Longitude": 151.00765002
+  },
+  {
+    "Name": "Carramar Station",
+    "Modes": [
+      0
+    ],
+    "Id": "216330",
+    "City": null,
+    "Latitude": -33.88445193,
+    "Longitude": 150.96098356
+  },
+  {
+    "Name": "Casula Station",
+    "Modes": [
+      0
+    ],
+    "Id": "217030",
+    "City": null,
+    "Latitude": -33.95021052,
+    "Longitude": 150.91182891
+  },
+  {
+    "Name": "Wolli Creek Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220510",
+    "City": null,
+    "Latitude": -33.92853822,
+    "Longitude": 151.15411287
+  },
+  {
+    "Name": "Arncliffe Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220520",
+    "City": null,
+    "Latitude": -33.93678246,
+    "Longitude": 151.147174
+  },
+  {
+    "Name": "Turrella Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220530",
+    "City": null,
+    "Latitude": -33.92979582,
+    "Longitude": 151.14033853
+  },
+  {
+    "Name": "Bardwell Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220710",
+    "City": null,
+    "Latitude": -33.93130976,
+    "Longitude": 151.12559243
+  },
+  {
+    "Name": "Bexley North Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220720",
+    "City": null,
+    "Latitude": -33.93750842,
+    "Longitude": 151.11377376
+  },
+  {
+    "Name": "Kingsgrove Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220810",
+    "City": null,
+    "Latitude": -33.94048235,
+    "Longitude": 151.10081465
+  },
+  {
+    "Name": "Beverly Hills Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220910",
+    "City": null,
+    "Latitude": -33.94912063,
+    "Longitude": 151.08086032
+  },
+  {
+    "Name": "Narwee Station",
+    "Modes": [
+      0
+    ],
+    "Id": "220920",
+    "City": null,
+    "Latitude": -33.94767733,
+    "Longitude": 151.07058514
+  },
+  {
+    "Name": "Riverwood Station",
+    "Modes": [
+      0
+    ],
+    "Id": "221010",
+    "City": null,
+    "Latitude": -33.95139401,
+    "Longitude": 151.05245738
+  },
+  {
+    "Name": "Penshurst Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222210",
+    "City": null,
+    "Latitude": -33.96620899,
+    "Longitude": 151.0888473
+  },
+  {
+    "Name": "Mortdale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222310",
+    "City": null,
+    "Latitude": -33.9710471,
+    "Longitude": 151.08100076
+  },
+  {
+    "Name": "Oatley Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222320",
+    "City": null,
+    "Latitude": -33.9803847,
+    "Longitude": 151.07901413
+  },
+  {
+    "Name": "Como Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222610",
+    "City": null,
+    "Latitude": -34.00461939,
+    "Longitude": 151.06824108
+  },
+  {
+    "Name": "Jannali Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222620",
+    "City": null,
+    "Latitude": -34.01610952,
+    "Longitude": 151.06464581
+  },
+  {
+    "Name": "Gymea Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222710",
+    "City": null,
+    "Latitude": -34.0348695,
+    "Longitude": 151.08526089
+  },
+  {
+    "Name": "Miranda Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222810",
+    "City": null,
+    "Latitude": -34.03625439,
+    "Longitude": 151.10209197
+  },
+  {
+    "Name": "Caringbah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "222910",
+    "City": null,
+    "Latitude": -34.04157831,
+    "Longitude": 151.12202571
+  },
+  {
+    "Name": "Woolooware Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223010",
+    "City": null,
+    "Latitude": -34.04754097,
+    "Longitude": 151.14375723
+  },
+  {
+    "Name": "Cronulla Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223020",
+    "City": null,
+    "Latitude": -34.05578475,
+    "Longitude": 151.15149843
+  },
+  {
+    "Name": "Kirrawee Station",
+    "Modes": [
+      0
+    ],
+    "Id": "223230",
+    "City": null,
+    "Latitude": -34.03497564,
+    "Longitude": 151.07121805
+  },
+  {
+    "Name": "Wondabyne Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225010",
+    "City": null,
+    "Latitude": -33.49214559,
+    "Longitude": 151.25699945
+  },
+  {
+    "Name": "Warnervale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225930",
+    "City": null,
+    "Latitude": -33.24732964,
+    "Longitude": 151.44885085
+  },
+  {
+    "Name": "Wyee Station",
+    "Modes": [
+      0
+    ],
+    "Id": "225940",
+    "City": null,
+    "Latitude": -33.18007088,
+    "Longitude": 151.48708552
+  },
+  {
+    "Name": "Dora Creek Station",
+    "Modes": [
+      0
+    ],
+    "Id": "226420",
+    "City": null,
+    "Latitude": -33.08371456,
+    "Longitude": 151.50094658
+  },
+  {
+    "Name": "Awaba Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228310",
+    "City": null,
+    "Latitude": -33.01297684,
+    "Longitude": 151.54212359
+  },
+  {
+    "Name": "Booragul Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228410",
+    "City": null,
+    "Latitude": -32.97170853,
+    "Longitude": 151.60494259
+  },
+  {
+    "Name": "Cockle Creek Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228430",
+    "City": null,
+    "Latitude": -32.94267124,
+    "Longitude": 151.62376463
+  },
+  {
+    "Name": "Kotara Station",
+    "Modes": [
+      0
+    ],
+    "Id": "228910",
+    "City": null,
+    "Latitude": -32.94159203,
+    "Longitude": 151.69793551
+  },
+  {
+    "Name": "Hamilton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "230310",
+    "City": null,
+    "Latitude": -32.91846324,
+    "Longitude": 151.748498
+  },
+  {
+    "Name": "North Wollongong Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250010",
+    "City": null,
+    "Latitude": -34.41227335,
+    "Longitude": 150.89138888
+  },
+  {
+    "Name": "Coniston Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250030",
+    "City": null,
+    "Latitude": -34.43785604,
+    "Longitude": 150.88512644
+  },
+  {
+    "Name": "Lysaghts Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250510",
+    "City": null,
+    "Latitude": -34.45416603,
+    "Longitude": 150.8757555
+  },
+  {
+    "Name": "Cringila Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250520",
+    "City": null,
+    "Latitude": -34.46711957,
+    "Longitude": 150.87843306
+  },
+  {
+    "Name": "Stanwell Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "250840",
+    "City": null,
+    "Latitude": -34.22641608,
+    "Longitude": 150.98108007
+  },
+  {
+    "Name": "Wombarra Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251520",
+    "City": null,
+    "Latitude": -34.27547081,
+    "Longitude": 150.95352385
+  },
+  {
+    "Name": "Coledale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251530",
+    "City": null,
+    "Latitude": -34.28967298,
+    "Longitude": 150.94314925
+  },
+  {
+    "Name": "Austinmer Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251540",
+    "City": null,
+    "Latitude": -34.30645714,
+    "Longitude": 150.92923261
+  },
+  {
+    "Name": "Corrimal Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251820",
+    "City": null,
+    "Latitude": -34.37560886,
+    "Longitude": 150.90493692
+  },
+  {
+    "Name": "Fairy Meadow Station",
+    "Modes": [
+      0
+    ],
+    "Id": "251910",
+    "City": null,
+    "Latitude": -34.39521697,
+    "Longitude": 150.89644618
+  },
+  {
+    "Name": "Unanderra Station",
+    "Modes": [
+      0
+    ],
+    "Id": "252610",
+    "City": null,
+    "Latitude": -34.45457966,
+    "Longitude": 150.84615381
+  },
+  {
+    "Name": "Albion Park Station",
+    "Modes": [
+      0
+    ],
+    "Id": "252710",
+    "City": null,
+    "Latitude": -34.56285582,
+    "Longitude": 150.79868137
+  },
+  {
+    "Name": "Emu Plains Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275020",
+    "City": null,
+    "Latitude": -33.74572534,
+    "Longitude": 150.67142718
+  },
+  {
+    "Name": "Lapstone Station",
+    "Modes": [
+      0
+    ],
+    "Id": "275030",
+    "City": null,
+    "Latitude": -33.77345788,
+    "Longitude": 150.64280498
+  },
+  {
+    "Name": "Glenbrook Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277310",
+    "City": null,
+    "Latitude": -33.76911515,
+    "Longitude": 150.62104944
+  },
+  {
+    "Name": "Blaxland Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277410",
+    "City": null,
+    "Latitude": -33.74374219,
+    "Longitude": 150.60978672
+  },
+  {
+    "Name": "Warrimoo Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277420",
+    "City": null,
+    "Latitude": -33.72140832,
+    "Longitude": 150.60273514
+  },
+  {
+    "Name": "Faulconbridge Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277610",
+    "City": null,
+    "Latitude": -33.6965933,
+    "Longitude": 150.53493365
+  },
+  {
+    "Name": "Valley Heights Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277710",
+    "City": null,
+    "Latitude": -33.70433308,
+    "Longitude": 150.58374369
+  },
+  {
+    "Name": "Springwood Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277720",
+    "City": null,
+    "Latitude": -33.69905654,
+    "Longitude": 150.56366276
+  },
+  {
+    "Name": "Woodford Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277810",
+    "City": null,
+    "Latitude": -33.73567216,
+    "Longitude": 150.48171549
+  },
+  {
+    "Name": "Linden Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277820",
+    "City": null,
+    "Latitude": -33.71489917,
+    "Longitude": 150.50520665
+  },
+  {
+    "Name": "Hazelbrook Station",
+    "Modes": [
+      0
+    ],
+    "Id": "277910",
+    "City": null,
+    "Latitude": -33.72368467,
+    "Longitude": 150.45415753
+  },
+  {
+    "Name": "Leura Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278010",
+    "City": null,
+    "Latitude": -33.71207455,
+    "Longitude": 150.33095833
+  },
+  {
+    "Name": "Katoomba Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278020",
+    "City": null,
+    "Latitude": -33.71203514,
+    "Longitude": 150.31166184
+  },
+  {
+    "Name": "Medlow Bath Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278030",
+    "City": null,
+    "Latitude": -33.6735552,
+    "Longitude": 150.28064561
+  },
+  {
+    "Name": "Wentworth Falls Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278210",
+    "City": null,
+    "Latitude": -33.70951523,
+    "Longitude": 150.37637161
+  },
+  {
+    "Name": "Lawson Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278310",
+    "City": null,
+    "Latitude": -33.7191006,
+    "Longitude": 150.42980295
+  },
+  {
+    "Name": "Bullaburra Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278410",
+    "City": null,
+    "Latitude": -33.72338686,
+    "Longitude": 150.41500219
+  },
+  {
+    "Name": "Blackheath Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278510",
+    "City": null,
+    "Latitude": -33.63374163,
+    "Longitude": 150.28438143
+  },
+  {
+    "Name": "Mount Victoria Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278610",
+    "City": null,
+    "Latitude": -33.58820075,
+    "Longitude": 150.25692324
+  },
+  {
+    "Name": "Bell Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278620",
+    "City": null,
+    "Latitude": -33.50568919,
+    "Longitude": 150.27905756
+  },
+  {
+    "Name": "Zig Zag Station",
+    "Modes": [
+      0
+    ],
+    "Id": "278630",
+    "City": null,
+    "Latitude": -33.47175842,
+    "Longitude": 150.20200389
+  },
+  {
+    "Name": "Lithgow Station",
+    "Modes": [
+      0
+    ],
+    "Id": "279010",
+    "City": null,
+    "Latitude": -33.48066213,
+    "Longitude": 150.156808
+  },
+  {
+    "Name": "Barangaroo Station",
+    "Modes": [
+      11
+    ],
+    "Id": "200046",
+    "City": null,
+    "Latitude": -33.85957698,
+    "Longitude": 151.20261517
+  },
+  {
+    "Name": "Gadigal Station",
+    "Modes": [
+      11
+    ],
+    "Id": "200066",
+    "City": null,
+    "Latitude": -33.87308122,
+    "Longitude": 151.20872206
+  },
+  {
+    "Name": "Waterloo Station",
+    "Modes": [
+      11
+    ],
+    "Id": "201721",
+    "City": null,
+    "Latitude": -33.89744549,
+    "Longitude": 151.20023991
+  },
+  {
+    "Name": "Tarana Station",
+    "Modes": [
+      0
+    ],
+    "Id": "27871",
+    "City": null,
+    "Latitude": -33.52424309,
+    "Longitude": 149.907495
+  },
+  {
+    "Name": "Maitland Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232020",
+    "City": null,
+    "Latitude": -32.73800633,
+    "Longitude": 151.55209853
+  },
+  {
+    "Name": "Waratah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "230410",
+    "City": null,
+    "Latitude": -32.90218201,
+    "Longitude": 151.73106539
+  },
+  {
+    "Name": "Warabrook Station",
+    "Modes": [
+      0
+    ],
+    "Id": "230420",
+    "City": null,
+    "Latitude": -32.88738021,
+    "Longitude": 151.7101627
+  },
+  {
+    "Name": "Telarah Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232030",
+    "City": null,
+    "Latitude": -32.72335662,
+    "Longitude": 151.53973566
+  },
+  {
+    "Name": "Beresfield Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232230",
+    "City": null,
+    "Latitude": -32.79929092,
+    "Longitude": 151.6582626
+  },
+  {
+    "Name": "Thornton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232240",
+    "City": null,
+    "Latitude": -32.78352147,
+    "Longitude": 151.63974686
+  },
+  {
+    "Name": "Metford Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232310",
+    "City": null,
+    "Latitude": -32.765202,
+    "Longitude": 151.61823769
+  },
+  {
+    "Name": "Victoria Street Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232320",
+    "City": null,
+    "Latitude": -32.75104739,
+    "Longitude": 151.59408427
+  },
+  {
+    "Name": "East Maitland Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232330",
+    "City": null,
+    "Latitude": -32.74478972,
+    "Longitude": 151.58736646
+  },
+  {
+    "Name": "Singleton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "233010",
+    "City": null,
+    "Latitude": -32.57195563,
+    "Longitude": 151.16543007
+  },
+  {
+    "Name": "Muswellbrook Station",
+    "Modes": [
+      0
+    ],
+    "Id": "233310",
+    "City": null,
+    "Latitude": -32.2673115,
+    "Longitude": 150.89004029
+  },
+  {
+    "Name": "Branxton Station",
+    "Modes": [
+      0
+    ],
+    "Id": "233510",
+    "City": null,
+    "Latitude": -32.66226828,
+    "Longitude": 151.3456353
+  },
+  {
+    "Name": "Paterson Station",
+    "Modes": [
+      0
+    ],
+    "Id": "242110",
+    "City": null,
+    "Latitude": -32.60213217,
+    "Longitude": 151.61472967
+  },
+  {
+    "Name": "Aberdeen Station",
+    "Modes": [
+      0
+    ],
+    "Id": "233610",
+    "City": null,
+    "Latitude": -32.1670942,
+    "Longitude": 150.89204155
+  },
+  {
+    "Name": "Rydal Station",
+    "Modes": [
+      0
+    ],
+    "Id": "2790128",
+    "City": null,
+    "Latitude": -33.48386625,
+    "Longitude": 150.03184368
+  },
+  {
+    "Name": "Bathurst Station",
+    "Modes": [
+      0
+    ],
+    "Id": "279538",
+    "City": null,
+    "Latitude": -33.42559763,
+    "Longitude": 149.5831806
+  },
+  {
+    "Name": "Sandgate Station",
+    "Modes": [
+      0
+    ],
+    "Id": "230430",
+    "City": null,
+    "Latitude": -32.87237742,
+    "Longitude": 151.70287731
+  },
+  {
+    "Name": "High Street Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232010",
+    "City": null,
+    "Latitude": -32.74167399,
+    "Longitude": 151.56393649
+  },
+  {
+    "Name": "Mindaribba Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232050",
+    "City": null,
+    "Latitude": -32.66831436,
+    "Longitude": 151.58442635
+  },
+  {
+    "Name": "Lochinvar Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232110",
+    "City": null,
+    "Latitude": -32.72052192,
+    "Longitude": 151.45036644
+  },
+  {
+    "Name": "Hexham Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232210",
+    "City": null,
+    "Latitude": -32.8288879,
+    "Longitude": 151.68414774
+  },
+  {
+    "Name": "Tarro Station",
+    "Modes": [
+      0
+    ],
+    "Id": "232220",
+    "City": null,
+    "Latitude": -32.80905884,
+    "Longitude": 151.66952574
+  },
+  {
+    "Name": "Greta Station",
+    "Modes": [
+      0
+    ],
+    "Id": "233410",
+    "City": null,
+    "Latitude": -32.68687245,
+    "Longitude": 151.38420433
+  },
+  {
+    "Name": "Scone Station",
+    "Modes": [
+      0
+    ],
+    "Id": "233710",
+    "City": null,
+    "Latitude": -32.04641035,
+    "Longitude": 150.86693959
+  },
+  {
+    "Name": "Dungog Station",
+    "Modes": [
+      0
+    ],
+    "Id": "242010",
+    "City": null,
+    "Latitude": -32.40228864,
+    "Longitude": 151.75937291
+  },
+  {
+    "Name": "Wallarobba Station",
+    "Modes": [
+      0
+    ],
+    "Id": "242020",
+    "City": null,
+    "Latitude": -32.49616061,
+    "Longitude": 151.6957196
+  },
+  {
+    "Name": "Wirragulla Station",
+    "Modes": [
+      0
+    ],
+    "Id": "242030",
+    "City": null,
+    "Latitude": -32.46323348,
+    "Longitude": 151.74253302
+  },
+  {
+    "Name": "Hilldale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "242040",
+    "City": null,
+    "Latitude": -32.50455904,
+    "Longitude": 151.6499029
+  },
+  {
+    "Name": "Martins Creek Station",
+    "Modes": [
+      0
+    ],
+    "Id": "242050",
+    "City": null,
+    "Latitude": -32.55816744,
+    "Longitude": 151.61847273
+  },
+  {
+    "Name": "Moss Vale Station",
+    "Modes": [
+      0
+    ],
+    "Id": "257710",
+    "City": null,
+    "Latitude": -34.54797724,
+    "Longitude": 150.37174595
+  }
+]

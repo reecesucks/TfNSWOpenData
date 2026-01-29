@@ -2,7 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using TfNSWOpenData.API;
-using TfNSWOpenData.Models;
+using TfNSWOpenData.Data;
+using TfNSWOpenData.Models.Generated;
 using TfNSWOpenData.Services;
 using TfNSWOpenData.TfNSW.Client;
 using static System.Net.WebRequestMethods;
@@ -12,18 +13,6 @@ namespace TfNSWOpenData
     public sealed class TfNSWOpenData
     {
         private readonly ITfNSWClient _client;
-
-        public TfNSWOpenData(string apiKey)
-        {
-            var options = new TfNSWOptions
-            {
-                ApiKey = apiKey,
-                BaseUri = new Uri("https://api.transport.nsw.gov.au/v1/tp/")
-            };
-
-            var http = new HttpClient();
-            _client = new TfNSWClient(http, Options.Create(options));
-        }
 
         public string GetLineColor(string line)
         {
@@ -45,8 +34,6 @@ namespace TfNSWOpenData
             return _client.FindStopAsync(parameters,  cancellationToken);
         }
 
-
-
         public async Task<DepartureMonitorResponse> GetDepartureMonitorAsync(Dictionary<string, string> parameters,
                                                                                 CancellationToken cancellationToken = default)
         {
@@ -57,6 +44,12 @@ namespace TfNSWOpenData
                                                                         CancellationToken cancellationToken = default)
         {
             return await _client.GetAdditionalInfoAsync(parameters, cancellationToken);
+        }
+
+        public void CreateDataFromCSVFiles()
+        {
+            var test = new GtfsLoader("TfNSWOpenData\\Data\\gtfs");
+            test.SaveStationsJson();
         }
     }
 }

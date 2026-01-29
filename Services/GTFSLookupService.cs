@@ -2,7 +2,7 @@
 using System.Formats.Asn1;
 using System.Globalization;
 using TfNSWOpenData.Enums;
-using TfNSWOpenData.Models;
+using TfNSWOpenData.Models.Generated;
 
 namespace TfNSWOpenData.Services
 {
