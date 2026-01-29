@@ -1,4 +1,4 @@
-﻿using TfNSWOpenData.Models;
+﻿using TfNSWOpenData.Models.Generated;
 
 namespace TfNSWOpenData.TfNSW.Client
 {

@@ -1,8 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
-using RestSharp;
-using System.Net;
-using TfNSWOpenData.Models;
+using TfNSWOpenData.Models.Generated;
 using TfNSWOpenData.TfNSW.Client;
 
 namespace TfNSWOpenData.API
