@@ -1,12 +1,6 @@
-﻿using Microsoft.Extensions.Options;
-using System.Collections;
-using System.Collections.Generic;
-using TfNSWOpenData.API;
-using TfNSWOpenData.Data;
+﻿using TfNSWOpenData.Data;
 using TfNSWOpenData.Models.Generated;
-using TfNSWOpenData.Services;
 using TfNSWOpenData.TfNSW.Client;
-using static System.Net.WebRequestMethods;
 
 namespace TfNSWOpenData
 {
