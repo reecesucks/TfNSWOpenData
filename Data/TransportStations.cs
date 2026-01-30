@@ -11,7 +11,7 @@ namespace TfNSWOpenData.Data
 
         static TransportStations()
         {
-            try
+            try 
             {
                 var assembly = Assembly.GetExecutingAssembly();
                 var resourceName = "TfNSWOpenData.Data.stations.json";
@@ -31,7 +31,6 @@ namespace TfNSWOpenData.Data
 
         public static List<Station> GetStations(TransportMode mode) =>
             _stations.Where(s => s.Modes.Contains(mode)).ToList();
-
 
         public static List<Station> GetAllStations()
         {

@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <Folder Include="Data\gtfs\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
