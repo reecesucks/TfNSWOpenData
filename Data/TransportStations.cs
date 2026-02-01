@@ -1,5 +1,4 @@
-﻿using System.Reflection;
-using System.Text.Json;
+﻿using System.Text.Json;
 using TfNSWOpenData.Enums;
 using TfNSWOpenData.Models;
 
@@ -8,20 +7,26 @@ namespace TfNSWOpenData.Data
     public static class TransportStations
     {
         private static List<Station>? _stations;
-
+        private static string _filepath;
         static TransportStations()
         {
             try 
             {
-                var assembly = Assembly.GetExecutingAssembly();
-                var resourceName = "TfNSWOpenData.Data.stations.json";
+                var folder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Dashboard");
+                var dataFolder = Path.Combine(folder, "Data");
 
-                using var stream = assembly.GetManifestResourceStream(resourceName)
-                    ?? throw new FileNotFoundException($"Embedded resource {resourceName} not found.");
+                _filepath = Path.Combine(dataFolder, "stations.json");
+                
+                if (!File.Exists(_filepath))
+                {
+                    _stations = new List<Station>();
+                    return;
+                }
 
-                using var reader = new StreamReader(stream);
-                var json = reader.ReadToEnd();
-                _stations = JsonSerializer.Deserialize<List<Station>>(json)!;
+                var json = File.ReadAllText(_filepath);
+
+                _stations = JsonSerializer.Deserialize<List<Station>>(json)
+                          ?? new List<Station>();
             }
             catch (Exception ex)
             {
@@ -38,7 +43,7 @@ namespace TfNSWOpenData.Data
             {
                 try
                 {
-                    var json = File.ReadAllText("Data/stations.json");
+                    var json = File.ReadAllText(_filepath);
                     _stations = JsonSerializer.Deserialize<List<Station>>(json)!;
                 }
                 catch (Exception ex)

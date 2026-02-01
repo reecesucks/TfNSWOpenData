@@ -1,5 +1,6 @@
 ﻿using TfNSWOpenData.Data;
 using TfNSWOpenData.Models.Generated;
+using TfNSWOpenData.Models.Requests;
 using TfNSWOpenData.TfNSW.Client;
 
 namespace TfNSWOpenData
@@ -34,16 +35,20 @@ namespace TfNSWOpenData
             return await _client.GetDepartureMonitorAsync(parameters, cancellationToken);
         }
 
-        public async Task<AdditionalInfoResponse> GetAdditionalInfoAsync(Dictionary<string, string> parameters,
+        public async Task<AdditionalInfoResponse> GetAdditionalInfoAsync(AdditionalInfoRequest request,
                                                                         CancellationToken cancellationToken = default)
         {
-            return await _client.GetAdditionalInfoAsync(parameters, cancellationToken);
+            return await _client.GetAdditionalInfoAsync(request, cancellationToken);
         }
 
         public void CreateDataFromCSVFiles()
         {
-            var test = new GtfsLoader("TfNSWOpenData\\Data\\gtfs");
-            test.SaveStationsJson();
+            var test = new GtfsLoader();
+            //test.SaveStationsJson();
+            test.SaveRoutesJson();
+
+            var routes = Routes.GetAllRoutes();
+            var station = TransportStations.GetStations(Enums.TransportMode.Metro);
         }
     }
 }
