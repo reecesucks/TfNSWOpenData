@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using TfNSWOpenData.Models.Generated;
+using TfNSWOpenData.Models.Requests;
 using TfNSWOpenData.TfNSW.Client;
 
 namespace TfNSWOpenData.API
@@ -21,9 +22,6 @@ namespace TfNSWOpenData.API
             _options = options;
 
         }
-
-
-
 
         public async Task<StopFinderResponse> FindStopAsync(Dictionary<string, string> parameters, CancellationToken cancellationToken = default)
         {
@@ -61,9 +59,9 @@ namespace TfNSWOpenData.API
                 $"Departure monitor returned no data for stop.");
         }
 
-        public async Task<AdditionalInfoResponse> GetAdditionalInfoAsync(Dictionary<string, string> queryParams, CancellationToken cancellationToken = default)
+        public async Task<AdditionalInfoResponse> GetAdditionalInfoAsync(AdditionalInfoRequest request, CancellationToken cancellationToken = default)
         {
-            var url = UrlBuilder.WithQuery(_options.Value.BaseUri.ToString(), "tp/add_info", queryParams);
+            var url = UrlBuilder.WithQuery(_options.Value.BaseUri.ToString(), "tp/add_info", request.ToQueryString());
 
             using var response = await _http.GetAsync(url, cancellationToken);
             var json = await response.Content.ReadAsStringAsync(cancellationToken);
