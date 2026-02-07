@@ -29,8 +29,35 @@ namespace TfNSWOpenData
             return _client.FindStopAsync(parameters,  cancellationToken);
         }
 
-        public async Task<DepartureMonitorResponse> GetDepartureMonitorAsync(Dictionary<string, string> parameters,
-                                                                                CancellationToken cancellationToken = default)
+        public async Task<DepartureMonitorResponse> GetDepartureMonitorAsync(string stopId, 
+            string outputFormat = "rapidJSON",
+            string coordOutputFormat = "EPSG:4326",
+            string mode = "direct",
+            string type_dm = "stop",
+            string depArrMacro = "dep",
+            DateTime? idtDateTime = null,
+            bool TfNSWDM = true,
+            int limit = 15,
+            CancellationToken cancellationToken = default)
+        {
+            var dt = idtDateTime ?? DateTime.Now;
+            var paramteters = new Dictionary<string, string>
+            {
+                ["outputFormat"] = outputFormat,
+                ["coordOutputFormat"] = coordOutputFormat,
+                ["mode"] = mode,
+                ["type_dm"] = type_dm,
+                ["name_dm"] = stopId,
+                ["depArrMacro"] = depArrMacro,
+                ["itdDate"] = dt.ToString("yyyyMMdd"),
+                ["itdTime"] = dt.ToString("HHmm"),
+                ["TfNSWDM"] = TfNSWDM.ToString(),
+                ["limit"] = limit.ToString()
+            };
+
+            return await GetDepartureMonitorAsync(paramteters, cancellationToken);
+        }
+        public async Task<DepartureMonitorResponse> GetDepartureMonitorAsync(Dictionary<string, string> parameters, CancellationToken cancellationToken = default)
         {
             return await _client.GetDepartureMonitorAsync(parameters, cancellationToken);
         }
