@@ -68,11 +68,11 @@ namespace TfNSWOpenData
             return await _client.GetAdditionalInfoAsync(request, cancellationToken);
         }
 
-        public void CreateDataFromCSVFiles()
+        public static void CreateDataFromCSVFiles()
         {
-            var test = new GtfsLoader();
-            //test.SaveStationsJson();
-            test.SaveRoutesJson();
+            //var test = new GtfsLoader();
+            ////test.SaveStationsJson();
+            //test.SaveRoutesJson();
 
             var routes = Routes.GetAllRoutes();
             var station = TransportStations.GetStations(Enums.TransportMode.Metro);
