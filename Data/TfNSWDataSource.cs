@@ -5,17 +5,33 @@ namespace TfNSWOpenData.Data
 {
     public static class TfNSWDataSource
     {
-        private static readonly string _readDataPath =
-            @"C:\Users\reece\source\repos\TfNSWOpenData\Data\gtfs\";
+        private static readonly string _readDataPath = ResolveDataPath();
 
-        static TfNSWDataSource()
+        private static string ResolveDataPath()
         {
-            LoadStops();
-            LoadRoutes();
-            LoadTrips();
-            LoadStopTimes();
-            BuildRouteStopIds();
-            BuildParentChildIndex();
+            var configured = Environment.GetEnvironmentVariable("TFNSW_GTFS_PATH");
+
+            return !string.IsNullOrWhiteSpace(configured)
+                ? configured
+                : Path.Combine(AppContext.BaseDirectory, "Data", "gtfs");
+        }
+
+       static TfNSWDataSource()
+        {
+            try
+            {
+                LoadStops();
+                LoadRoutes();
+                LoadTrips();
+                LoadStopTimes();
+                BuildRouteStopIds();
+                BuildParentChildIndex();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(
+                    $"[TfNSWDataSource] Failed to load GTFS data from '{_readDataPath}': {ex.Message}");
+            }
         }
 
         public static IReadOnlyList<Stop> Stops { get; private set; } = new List<Stop>();
@@ -34,6 +50,12 @@ namespace TfNSWOpenData.Data
         private static void LoadStops()
         {
             var path = Path.Combine(_readDataPath, "stops.txt");
+
+            if (!File.Exists(path))
+            {
+                Stops = new List<Stop>();
+                return;
+            }
 
             using var reader = new StreamReader(path);
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
